@@ -1,7 +1,4 @@
-- 👋 Hi, I’m QingshuoLiu
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python,C++,Java
-- 💞️ I’m looking to collaborate on ...
+你好，我是清硕，是一个正在学习Python，C++/C、html和JS的中学生，热爱编程，分享代码。
 
 <!---
 QingshuoLiu2022/QingshuoLiu2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
