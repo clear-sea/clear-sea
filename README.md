@@ -1,5 +1,4 @@
 # 轻字节编程
-这是一个目前有四个人的团队！
 
 <span > 
     <img src="https://img.shields.io/badge/-C++-red?style=flat-square&logo=cplusplus&logoColor=white" />
