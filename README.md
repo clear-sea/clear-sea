@@ -32,7 +32,7 @@
 
 1.个人网站：https://clear-sea.github.io/
 
-2.给我们班做的网站：https://clear-sea.github.io/Class-Website/
+2.给我们班做的网站：[https://clear-sea.github.io/Class-Website/](https://clear-sea.github.io/class202306/)
 
 ## 
 
